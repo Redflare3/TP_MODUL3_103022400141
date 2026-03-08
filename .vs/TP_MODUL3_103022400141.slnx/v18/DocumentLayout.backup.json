@@ -3,8 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\Jack\\source\\repos\\TP_MODUL3_103022400141\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{83CB7170-81CB-4EBC-9505-1C71871B722B}|TP_MODUL3_103022400141\\TP_MODUL3_103022400141.csproj|c:\\users\\jack\\source\\repos\\tp_modul3_103022400141\\tp_modul3_103022400141\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{83CB7170-81CB-4EBC-9505-1C71871B722B}|TP_MODUL3_103022400141\\TP_MODUL3_103022400141.csproj|solutionrelative:tp_modul3_103022400141\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{53458B3C-77CA-6989-BC5C-0AE098C4B5DC}|TP_MODUL3_103022400141\\TP_MODUL3_103022400141.csproj|c:\\users\\jack\\source\\repos\\tp_modul3_103022400141\\tp_modul3_103022400141\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{53458B3C-77CA-6989-BC5C-0AE098C4B5DC}|TP_MODUL3_103022400141\\TP_MODUL3_103022400141.csproj|solutionrelative:tp_modul3_103022400141\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53458B3C-77CA-6989-BC5C-0AE098C4B5DC}|TP_MODUL3_103022400141\\TP_MODUL3_103022400141.csproj|c:\\users\\jack\\source\\repos\\tp_modul3_103022400141\\tp_modul3_103022400141\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{53458B3C-77CA-6989-BC5C-0AE098C4B5DC}|TP_MODUL3_103022400141\\TP_MODUL3_103022400141.csproj|solutionrelative:tp_modul3_103022400141\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53458B3C-77CA-6989-BC5C-0AE098C4B5DC}|TP_MODUL3_103022400141\\TP_MODUL3_103022400141.csproj|c:\\users\\jack\\source\\repos\\tp_modul3_103022400141\\tp_modul3_103022400141\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53458B3C-77CA-6989-BC5C-0AE098C4B5DC}|TP_MODUL3_103022400141\\TP_MODUL3_103022400141.csproj|solutionrelative:tp_modul3_103022400141\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,6 +27,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\Users\\Jack\\source\\repos\\TP_MODUL3_103022400141\\TP_MODUL3_103022400141\\.gitignore",
+              "RelativeDocumentMoniker": "TP_MODUL3_103022400141\\.gitignore",
+              "ToolTip": "C:\\Users\\Jack\\source\\repos\\TP_MODUL3_103022400141\\TP_MODUL3_103022400141\\.gitignore",
+              "RelativeToolTip": "TP_MODUL3_103022400141\\.gitignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-03-08T06:39:59.148Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Jack\\source\\repos\\TP_MODUL3_103022400141\\TP_MODUL3_103022400141\\Form1.cs",
+              "RelativeDocumentMoniker": "TP_MODUL3_103022400141\\Form1.cs",
+              "ToolTip": "C:\\Users\\Jack\\source\\repos\\TP_MODUL3_103022400141\\TP_MODUL3_103022400141\\Form1.cs",
+              "RelativeToolTip": "TP_MODUL3_103022400141\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-08T06:21:38.967Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "C:\\Users\\Jack\\source\\repos\\TP_MODUL3_103022400141\\TP_MODUL3_103022400141\\Form1.cs",
               "RelativeDocumentMoniker": "TP_MODUL3_103022400141\\Form1.cs",
